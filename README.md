@@ -1,6 +1,6 @@
 # Financial Planner
 
-Financial Planner is a prototype application to analyze the individual's portfolio perfomance as well as retirement portfolio. The portfolio of a fictious Credit Union Members are taken for analysis.
+Financial Planner is a prototype application to analyze the individual's portfolio performance as well as retirement portfolio. The portfolio of a fictitious Credit Union Members are taken for analysis.
 
 The prototype has two parts.
 
